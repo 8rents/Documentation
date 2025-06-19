@@ -6,6 +6,10 @@
 
 > #### *In depth series of articles written on a particular subject.*
 
+## [Creating devcontainer templates](creating-devcontainer-templates/README.md)
+
+A guide on creating templates to begin creating devcontainers and then templates to load into devcontainers to create a completely ephemeral development environment.
+
 ## [__Developing Ephemerally on GitHub__](developing-on-github/README.md)
 
 In depth series of guides that detail using GitHub to develop applications in the cloud without using any servers or virtual machines or containers.
