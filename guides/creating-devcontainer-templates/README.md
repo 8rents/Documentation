@@ -7,6 +7,7 @@
 ## Table of Contents
 
 - [Project configuration folders](docs/project-configuration-folders.md)
+- [Naming Conventions](docs/naming-conventions.md)
 
 ## What are Development Containers?
 
