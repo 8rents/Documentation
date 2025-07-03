@@ -4,10 +4,12 @@
 
 ---
 
-## Table of Contents
+## Documents in this repo
 
 - [Project configuration folders](docs/project-configuration-folders.md)
 - [Naming Conventions](docs/naming-conventions.md)
+
+---
 
 ## What are Development Containers?
 
