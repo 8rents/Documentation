@@ -4,7 +4,7 @@
 
 ---
 
-These articles and guides will form the outline for the rewrite of the book *How to be a Hacker, not a Script Kiddie*. In the meantime, I hope these prove useful to someone... :)
+These articles and guides will form the outline for the rewrite of the book *How to be a Hacker, not a Script Kiddie*. In the meantime, I hope these prove useful to someone... :) 
 
 ***
 
